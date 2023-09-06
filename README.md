@@ -1,1 +1,1 @@
-# Supervised-ML-SEMINAR
+# Supervised-ML-Seminar
